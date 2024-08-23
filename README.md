@@ -21,6 +21,3 @@ MIT App Inventor
 
 ## References
 https://crazymaker.com.tw/arduino-bluetooth-control-led/  
-  
-book:  
-![line_oa_chat_240822_160228](https://github.com/user-attachments/assets/eb679b0a-06e6-4a12-95ca-638e39fa25e4)
