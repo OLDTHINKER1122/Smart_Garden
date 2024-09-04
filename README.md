@@ -24,4 +24,5 @@ MIT App Inventor
 https://crazymaker.com.tw/arduino-bluetooth-control-led/  
 https://104.es/index.php/2018/06/09/arduino-bluetooth-read-sensor-value/  
 https://drive.google.com/drive/folders/1cndQKwIcTRgFjNG5mQayTCxtOlGBYSIH  
+![line_oa_chat_240904_171439](https://github.com/user-attachments/assets/50207190-bc2e-4022-b14c-293be578f729)
 
