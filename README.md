@@ -18,7 +18,9 @@ MIT App Inventor
 ![app_inventor](https://github.com/user-attachments/assets/d74caa60-e0f8-4689-933e-58f6f85d1dd0)
 
 ## Other
-[ppt](https://www.canva.com/design/DAGOigyLLKY/ekCIMSSB4mfq-LLz_xcpMQ/view?utm_content=DAGOigyLLKY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+[ppt](https://www.canva.com/design/DAGOigyLLKY/ekCIMSSB4mfq-LLz_xcpMQ/view?utm_content=DAGOigyLLKY&utm_campaign=designshare&utm_medium=link&utm_source=editor)  
+
+[展示影片](https://youtu.be/YZ28NH_vevY)
 
 ## References
 https://crazymaker.com.tw/arduino-bluetooth-control-led/  
